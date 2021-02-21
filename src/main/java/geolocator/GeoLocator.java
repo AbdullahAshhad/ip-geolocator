@@ -8,8 +8,8 @@ import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import com.google.common.net.UrlEscapers;
-import org.apache.commons.io.IOUtils;
 
+import org.apache.commons.io.IOUtils;
 
 public class GeoLocator {
 
